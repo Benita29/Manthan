@@ -1,0 +1,14 @@
+Inputs:
+
+1st py:
+
+Token: 
+EAAEcKSxm1QQBAAnJkbVmVeVUxVWewzdZAdCS0HZBi0ZAFhXni5p6yhwaZAGlZAZBYoi1wRUeNEbASyJbJyN4qu0gogVaB2pv2BzKlNrqMFNnARdfZArOZC6h77dEYafJiW7BPFFrfEYoNkiCXcKqHTAdQ3SLOwSkFgEGk0XSg6c3XAZDZD
+
+2nd py:
+
+Example 1(crop):
+https://i.ibb.co/FX2Hwcj/gamingimg1.jpg
+
+Example 2(color change):
+https://i.ibb.co/Lnnmgng/elephant1.jpg
